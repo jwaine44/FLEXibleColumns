@@ -1,0 +1,21 @@
+.row {
+    display: flex;
+}
+
+.col-2 {
+    flex: 2;                                            /* The total space will be 5 (2+3 of the flex numbers) */
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(52, 52, 238);
+    color: white;
+    font-weight: bold;
+}
+
+.col-3 {
+    flex: 3;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(52, 52, 238);
+    color: white;
+    font-weight: bold;
+}

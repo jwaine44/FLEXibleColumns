@@ -1,0 +1,12 @@
+.row {
+    display: flex;
+}
+
+.col {
+    flex: 1;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(52, 52, 238);
+    color: white;
+    font-weight: bold;
+}
